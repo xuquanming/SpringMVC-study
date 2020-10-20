@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/SpringMVC-01-servlet/target/
+/SpringMVC-02-hellomvc/target/
